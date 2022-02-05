@@ -10,7 +10,7 @@ Interrior material calculator is a console application project created in C++.
 
     git clone https://github.com/aratheunseen/Interior-Material-Calculator.git
 
- Step-2. Compile cpp code on gcc or CodeBlocks.
+ Step-2. Compile cpp code in `gcc` or CodeBlocks.
 
 ### Calculate Objects
 - Join Post
