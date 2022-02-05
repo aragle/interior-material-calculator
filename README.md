@@ -1,4 +1,4 @@
-# interior-material-calculator
+# Interior-Material-Calculator
 
 Interrior material calculator is a console application project created in C++.
 
@@ -8,7 +8,7 @@ Interrior material calculator is a console application project created in C++.
 
  Step-1. Download or clone this repository -
 
-    git clone https://github.com/aratheunseen/interior-material-calculator.git
+    git clone https://github.com/aratheunseen/Interior-Material-Calculator.git
 
  Step-2. Compile cpp code on gcc or CodeBlocks.
 
